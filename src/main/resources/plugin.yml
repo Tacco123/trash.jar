@@ -1,0 +1,8 @@
+name: TrashPlugin
+main: com.tacco.trash.TrashPlugin
+version: 1.0
+api-version: 1.21
+commands:
+  trash:
+    description: Öffnet einen virtuellen Mülleimer.
+    aliases: [dispose, bin]
